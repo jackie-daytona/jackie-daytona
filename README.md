@@ -5,6 +5,7 @@ I’m Danny — welcome to my GitHub page! You’ll find a few projects here sho
 #### I'm currently working on...
 * Revamping a "chess variant" final project from my Intro to CS II class to add full game functionality, a GUI, and cleaner logic
 * A website for my father to upgrade his fantasy golf league from pen and paper to the information superhighway
+    - Using Java, Spring Boot and (possibly) Angular -- still designing this one!
 * Courses in networks and parallel programming at OSU 🦫
 
 <!--
