@@ -7,8 +7,6 @@ I’m Danny — welcome to my GitHub page! You’ll find a few projects here sho
 * A website for my father to upgrade his fantasy golf league from pen and paper to the information superhighway
 * Courses in networks and parallel programming at OSU 🦫
 
-#### Fun fact: 
-There is a pig on Hawaii's Big Island named after me.
 <!--
 **jackie-daytona/jackie-daytona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
