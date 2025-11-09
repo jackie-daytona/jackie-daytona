@@ -6,7 +6,7 @@ I'm Danny, welcome to my GitHub page! You’ll find a few projects here that ref
 * Revamping a "chess variant" final project from my Intro to CS II class to add full game functionality, a GUI, and cleaner logic
 * A website for my father to upgrade his fantasy golf league from pen and paper to the information superhighway
     - Using Java, Spring Boot and Angular -- still designing this one!
-* Courses in networks and parallel programming at OSU 🦫
+* Learning through work: building out Python and AWS automation to handle daily reporting and data workflows
 
 <!--
 **jackie-daytona/jackie-daytona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
