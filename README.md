@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Danny -- welcome to my GitHub page! You’ll find a few projects here that reflect what I’ve learned and built while earning my Computer Science degree from Oregon State University. Since graduating, I’ve been revisiting and improving some of my earlier work — and adding new projects — to better reflect where I’m at now as a developer.
+I'm Danny, welcome to my GitHub page! You’ll find a few projects here that reflect what I’ve learned and built while earning my Computer Science degree from Oregon State University. Since graduating, I’ve been revisiting and improving some of my earlier work (and adding new projects) to better reflect where I’m at now as a developer.
 
 #### I'm currently working on...
 * Revamping a "chess variant" final project from my Intro to CS II class to add full game functionality, a GUI, and cleaner logic
